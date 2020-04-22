@@ -1,2 +1,19 @@
 # WEB-Cab-Sharing
 Coding club project for Cab sharing for campus junta
+
+##Project Team
+
+* [**Satyendra Dhaka**](https://github.com/satyendradhaka)
+  * __Email__ - "satyendr@iitg.ac.in"
+  
+ * **Manish Chandoliya**
+  * __Email__ - "chandoli@iitg.ac.in"
+
+* **Darshit Nagar**
+  * __Email__ - "darshit18@iitg.ac.in"
+  
+* **Vatshal**
+  * __Email__ - "vatshal@iitg.ac.in"
+  
+* **Anmol Choudhary**
+  * __Email__ - "choudhar@iitg.ac.in"
