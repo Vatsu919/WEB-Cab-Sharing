@@ -15,5 +15,5 @@ Coding club project for Cab sharing for campus junta
 * **Vatshal**
   * __Email__ - "vatshal@iitg.ac.in"
   
-* **Anmol Choudhary**
+* [**Anmol Choudhary**](https://github.com/choudhary463)
   * __Email__ - "choudhar@iitg.ac.in"
