@@ -9,7 +9,7 @@ Coding club project for Cab sharing for campus junta
  * **Manish Chandoliya**
    * __Email__ - "chandoli@iitg.ac.in"
 
-* **Darshit Nagar**
+* [**Darshit Nagar**](https://github.com/Darshit-git)
   * __Email__ - "darshit18@iitg.ac.in"
   
 * [**Vatshal**](https://github.com/Vatsu919)
