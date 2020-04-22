@@ -1,7 +1,7 @@
 # WEB-Cab-Sharing
 Coding club project for Cab sharing for campus junta
 
-##Project Team
+## Project Team
 
 * [**Satyendra Dhaka**](https://github.com/satyendradhaka)
   * __Email__ - "satyendr@iitg.ac.in"
